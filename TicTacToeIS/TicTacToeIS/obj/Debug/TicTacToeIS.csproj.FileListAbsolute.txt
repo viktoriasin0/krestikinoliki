@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\TicTacToeIS\TicTacToeIS\bin\Debug\TicTacToeIS.exe.config
+C:\Users\student\source\repos\TicTacToeIS\TicTacToeIS\bin\Debug\TicTacToeIS.exe
+C:\Users\student\source\repos\TicTacToeIS\TicTacToeIS\bin\Debug\TicTacToeIS.pdb
+C:\Users\student\source\repos\TicTacToeIS\TicTacToeIS\obj\Debug\TicTacToeIS.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\TicTacToeIS\TicTacToeIS\obj\Debug\TicTacToeIS.Form1.resources
+C:\Users\student\source\repos\TicTacToeIS\TicTacToeIS\obj\Debug\TicTacToeIS.Properties.Resources.resources
+C:\Users\student\source\repos\TicTacToeIS\TicTacToeIS\obj\Debug\TicTacToeIS.csproj.GenerateResource.cache
+C:\Users\student\source\repos\TicTacToeIS\TicTacToeIS\obj\Debug\TicTacToeIS.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\TicTacToeIS\TicTacToeIS\obj\Debug\TicTacToeIS.exe
+C:\Users\student\source\repos\TicTacToeIS\TicTacToeIS\obj\Debug\TicTacToeIS.pdb
